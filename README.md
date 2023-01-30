@@ -1,4 +1,4 @@
-### Olá! Eu sou o Augusto Chissano 👋
+### Hi there! I'm Augusto Chissano 👋
 [![Watsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+258840191729)
 [![Watsapp](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-chissano-a0285a1a5)
 [![Watsapp](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/augusto.horacio.96)
@@ -19,5 +19,5 @@
 
 </div><br>
 
-Apaixonado por tecnologias.
+A true knowledge lover, always looking to learn more and share information.
 
