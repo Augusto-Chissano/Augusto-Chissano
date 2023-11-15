@@ -39,7 +39,6 @@ Nice to meet you, I'm Augusto Chissano aka 4886
 
 ## Github Status 🏆
 
-<img  src="https://github-stats-lemon.vercel.app/api?username=Augusto-Chissano&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Augusto-Chissano&theme=react" width="48%" >
 <br>
 
