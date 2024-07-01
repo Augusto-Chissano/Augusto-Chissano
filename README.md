@@ -2,16 +2,6 @@
 
 Nice to meet you, I'm Augusto Chissano aka 4886
 
-## Who Am I? 🤠
-
-- 🤓 Self taught Developer 
-- 📝 Writing Words, Compiling Code
-- 🎯 Goal : To be a better Developer 
-- 📫 How to reach me : [augustochissanojr@gmail.com](mailto:augustochissanojr@gmail.com)
-- 💌 Fun Facts :  
-    - Overthinks thinking to not to overthink 🙂
-<br>
-
 ## My Weapons 🌟
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Chissano&theme=react)](https://github.com/Augusto-Chissano/github-readme-stats)
