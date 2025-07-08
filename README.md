@@ -1,1 +1,1 @@
-<img src="logo-1.png" alt="Screenshot" height="700"/>
+<img src="logo-1.png" alt="Screenshot" height="600" width="600"/>
